@@ -6,3 +6,11 @@
 ## 好玩的圖
 [連結](https://today.line.me/tw/v2/article/9WgqNR)
 ![圖片](https://obs.line-scdn.net/0hI4yo-ytbFhtEFj5pGsFpTH5AFXR3egUYICBHGAd4SC89JlVJenlYLmgVHS9qIFFFKnhbdGgeDSo6IlFLKHZY/w1200)
+```C
+#include <stdio.h>
+int main()
+{
+  printf("Hello World\n");
+  return 0;
+}
+```
